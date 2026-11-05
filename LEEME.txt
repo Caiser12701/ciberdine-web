@@ -1,0 +1,49 @@
+CIBERDINE TEC S.R.L. - sitio web inicial
+
+ARCHIVOS
+- index.html: contenido y estructura.
+- styles.css: diseño adaptable a móviles y computadoras.
+- script.js: menú móvil y año automático.
+- assets/: colocar aquí el logotipo oficial.
+
+LOGOTIPO
+El sitio está preparado con un espacio provisional para el logotipo. Cuando se tenga el archivo oficial (preferentemente PNG transparente o SVG), se integrará en la cabecera y el pie de página.
+
+WHATSAPP
+Los botones están configurados con el número +51 941 908 383 (formato internacional: 51941908383).
+
+PUBLICACIÓN GRATUITA
+Puede publicarse en GitHub Pages o Cloudflare Pages. Para publicar en GitHub Pages:
+1. Crear/iniciar sesión en GitHub.
+2. Crear un repositorio público llamado ciberdinetec.github.io (si está disponible).
+3. Subir el contenido de esta carpeta a la raíz del repositorio.
+4. En Settings > Pages, seleccionar Deploy from a branch y la rama main / root.
+5. Esperar la publicación y probar la dirección generada.
+
+NOTA
+Este es un primer prototipo institucional. Antes de publicarlo definitivamente conviene confirmar el logotipo, correo corporativo, dirección, RUC y textos finales de presentación.
+
+LOGOTIPO INTEGRADO
+El logotipo proporcionado se encuentra en assets/logo-ciberdine.jpg y ya está vinculado en la cabecera del sitio.
+
+SERVICIO ADICIONAL
+Se incorporó el servicio Laboratorio de Calibración de equipos topográficos. La descripción es general y no afirma acreditación. Confirmar el alcance real de equipos y si el laboratorio cuenta con acreditación antes de publicar afirmaciones específicas.
+
+ALCANCE DEL LABORATORIO
+El laboratorio se presenta como particular, sin declarar acreditación de INACAL. Se incorporaron servicios de calibración/verificación, diagnóstico, reparación, mantenimiento preventivo y correctivo, y actualización de firmware para equipos topográficos y geodésicos.
+
+SECCIÓN INDEPENDIENTE DE LABORATORIO
+Se agregó una sección propia 'Laboratorio Técnico' con diagnóstico y reparación, mantenimiento preventivo/correctivo, calibración/verificación y actualización de firmware. Las imágenes son recursos gráficos provisionales; reemplazarlas por fotografías reales del laboratorio antes de la publicación final para mostrar instalaciones y trabajos auténticos.
+
+
+ACTUALIZACION CON GALERIA FOTOGRAFICA
+- Se incorporaron fotografías reales proporcionadas por CIBERDINE TEC.
+- Se añadieron secciones de laboratorio, topografía/geodesia y fotogrametría con drones.
+- Las imágenes se convirtieron a WebP y se redimensionaron para web.
+- Los archivos originales no se modificaron; este paquete contiene copias optimizadas.
+- Las imágenes de procesos fotogramétricos son capturas de productos/procesos facilitados por la empresa.
+
+
+Actualización: se incorporó una fotografía real de levantamiento batimétrico en la galería de Topografía y Geodesia, y una imagen ilustrativa en Desarrollo de Software. Las fotografías de la galería se muestran completas, sin recorte.
+
+Datos de contacto añadidos: Avenida Independencia 1956, Independencia, Huaraz, Áncash; correo caiser12@gmail.com. Se añadió enlace de búsqueda de la dirección en Google Maps.
